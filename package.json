@@ -18,7 +18,7 @@
     "core-js": "^3.1.2",
     "flatted": "^2.0.1",
     "jquery": "^3.4.1",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "sass-loader": "^8.0.0",
     "vue": "^2.6.10",
     "vue-agile": "^1.0.11",
